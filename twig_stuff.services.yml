@@ -1,0 +1,9 @@
+services:
+    twig_stuff.twig.GetUrlFromFid:
+        class: Drupal\twig_stuff\GetUrlFromFid
+        tags:
+            - { name: twig.extension }
+    twig_stuff.twig.GetFileExtension:
+        class: Drupal\twig_stuff\GetFileExtension
+        tags:
+            - { name: twig.extension }
