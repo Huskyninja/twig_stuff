@@ -15,7 +15,7 @@ Takes a file path and pulls out the file extension. Basically this is using PHP'
 	    {{ FileExtension }}
 	{% endif %}
 
-There is always a requirement to display the extension for something, and this is a quick way to accomplish this in viiews. For more info on pathinfo(): https://www.php.net/manual/en/function.pathinfo.php
+There is always a requirement to display the extension for something, and this is a quick way to accomplish this in views. For more info on pathinfo(): https://www.php.net/manual/en/function.pathinfo.php
 
 ## Details
 
