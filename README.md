@@ -1,6 +1,6 @@
 # twig_stuff
 
-This module has a couple of simple Twig extensions written primarily for use in Drupal views. There are only a couple of items here, but they may be helpful in your projjects. These are best when combined with Twig Tweak to add embedded views for all kinds of views related fun.
+This module has a couple of simple Twig extensions written primarily for use in Drupal views. There are only a couple of items here, but they may be helpful in your projects. These are best when combined with Twig Tweak to add embedded views for all kinds of views related fun.
 
 ## get_url_from_fid
 
